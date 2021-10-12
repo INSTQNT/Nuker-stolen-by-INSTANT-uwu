@@ -19,7 +19,7 @@ async def on_ready():
    await client.change_presence(activity=discord.Game(name="Made by INSTANT#4143"))
 
 @client.command()
-async def wizz(ctx):
+async def rekt(ctx):
     await ctx.message.delete()
     guild = ctx.guild
     try:
