@@ -85,6 +85,6 @@ async def banall(ctx):
       except:
         print(f"{member.name} not banned from {ctx.guild.name}")
 
-client.run("ODk3NTI4NTM2NDM1NDA0ODMx.YWW-lg.GXrGhUDUt6Gfhh9ETVp0Yep_Cv0")
+client.run("ODk3NTI4NTM2NDM1NDA0ODMx.YWW-lg.OmgyVxZSZLyzRTekSVbdeULWaSw")
 
   
