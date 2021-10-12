@@ -16,7 +16,7 @@ client = commands.Bot(command_prefix='.', intents=discord.Intents.all())
 @client.event
 async def on_ready():
    print(Fore.MAGENTA + ' Made by INSTANT  ' + Fore.RESET)
-   await client.change_presence(activity=discord.Game(name="Made by Shxdow.xdd#7865"))
+   await client.change_presence(activity=discord.Game(name="Made by INSTANT#4143"))
 
 @client.command()
 async def wizz(ctx):
